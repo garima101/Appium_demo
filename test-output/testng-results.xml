@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="2" failed="0" total="8" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Suite Suite]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Test TestIOS]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : IOSDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : IOSDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : IOSDemoTest.WebFailtest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : IOSDemoTest.WebFailtest]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.experitest.auto.IOSDemoTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Skipped]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : IOSDemoTest.WebPasstest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : IOSDemoTest.WebPasstest]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.experitest.auto.IOSDemoTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing test TestIOS]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Test TestAndroid]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.WebfailTest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.WebfailTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.applaunch]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.applaunch]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.installapp]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.installapp]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.WebPasstest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.WebPasstest]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.AppPasstest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.AppPasstest]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : AndroidDemoTest.Appfailtest]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : AndroidDemoTest.Appfailtest]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="201626" started-at="2018-07-18T09:29:41Z" finished-at="2018-07-18T09:33:02Z">
+    <groups>
+    </groups>
+    <test name="TestIOS" duration-ms="4589" started-at="2018-07-18T09:29:41Z" finished-at="2018-07-18T09:29:45Z">
+      <class name="com.experitest.auto.IOSDemoTest">
+        <test-method status="FAIL" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.IOSDemoTest@93dd95]" name="setUp" is-config="true" duration-ms="0" started-at="2018-07-18T14:59:41Z" finished-at="2018-07-18T14:59:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='ios']]>
+              </value>
+            </param>
+          </params>
+          <exception class="com.experitest.client.InternalException">
+            <message>
+              <![CDATA[The lockDeviceForExecution failed with error: 'Not enough tokens']]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[com.experitest.client.InternalException: The lockDeviceForExecution failed with error: 'Not enough tokens'
+	at com.experitest.client.GridClient.lockDeviceForExecution(GridClient.java:397)
+	at com.experitest.client.GridClient.lockDeviceForExecution(GridClient.java:230)
+	at com.experitest.auto.BaseTest.init(BaseTest.java:40)
+	at com.experitest.auto.IOSDemoTest.setUp(IOSDemoTest.java:16)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:510)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:211)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:585)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- com.experitest.client.InternalException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : IOSDemoTest.setUp]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="WebFailtest()[pri:0, instance:com.experitest.auto.IOSDemoTest@93dd95]" name="WebFailtest" duration-ms="2" started-at="2018-07-18T14:59:45Z" finished-at="2018-07-18T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebFailtest -->
+        <test-method status="SKIP" signature="tearDownTestClass()[pri:0, instance:com.experitest.auto.IOSDemoTest@93dd95]" name="tearDownTestClass" is-config="true" duration-ms="0" started-at="2018-07-18T14:59:45Z" finished-at="2018-07-18T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTestClass -->
+        <test-method status="SKIP" signature="tearDownTestMethod(org.testng.ITestResult)[pri:0, instance:com.experitest.auto.IOSDemoTest@93dd95]" name="tearDownTestMethod" is-config="true" duration-ms="0" started-at="2018-07-18T14:59:45Z" finished-at="2018-07-18T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTestMethod -->
+        <test-method status="SKIP" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.IOSDemoTest@93dd95]" name="setUp" is-config="true" duration-ms="0" started-at="2018-07-18T14:59:45Z" finished-at="2018-07-18T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="WebPasstest()[pri:0, instance:com.experitest.auto.IOSDemoTest@93dd95]" name="WebPasstest" duration-ms="1" started-at="2018-07-18T14:59:45Z" finished-at="2018-07-18T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebPasstest -->
+        <test-method status="SKIP" signature="tearDownTestClass()[pri:0, instance:com.experitest.auto.IOSDemoTest@93dd95]" name="tearDownTestClass" is-config="true" duration-ms="0" started-at="2018-07-18T14:59:45Z" finished-at="2018-07-18T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTestClass -->
+        <test-method status="SKIP" signature="tearDownTestMethod(org.testng.ITestResult)[pri:0, instance:com.experitest.auto.IOSDemoTest@93dd95]" name="tearDownTestMethod" is-config="true" duration-ms="0" started-at="2018-07-18T14:59:45Z" finished-at="2018-07-18T14:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTestMethod -->
+      </class> <!-- com.experitest.auto.IOSDemoTest -->
+    </test> <!-- TestIOS -->
+    <test name="TestAndroid" duration-ms="196957" started-at="2018-07-18T09:29:45Z" finished-at="2018-07-18T09:33:02Z">
+      <class name="com.experitest.auto.AndroidDemoTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="setUp" is-config="true" duration-ms="22192" started-at="2018-07-18T14:59:45Z" finished-at="2018-07-18T15:00:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="WebfailTest()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="WebfailTest" duration-ms="13749" started-at="2018-07-18T15:00:07Z" finished-at="2018-07-18T15:00:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.WebfailTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- WebfailTest -->
+        <test-method status="PASS" signature="tearDownTestClass()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestClass" is-config="true" duration-ms="3023" started-at="2018-07-18T15:00:21Z" finished-at="2018-07-18T15:00:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestClass -->
+        <test-method status="PASS" signature="tearDownTestMethod(org.testng.ITestResult)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestMethod" is-config="true" duration-ms="1" started-at="2018-07-18T15:00:24Z" finished-at="2018-07-18T15:00:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=WebfailTest status=SUCCESS method=AndroidDemoTest.WebfailTest()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870] output=Completed executing following method : AndroidDemoTest.WebfailTest]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestMethod -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="setUp" is-config="true" duration-ms="20658" started-at="2018-07-18T15:00:24Z" finished-at="2018-07-18T15:00:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="applaunch()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="applaunch" duration-ms="6966" started-at="2018-07-18T15:00:45Z" finished-at="2018-07-18T15:00:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.applaunch]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- applaunch -->
+        <test-method status="PASS" signature="tearDownTestClass()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestClass" is-config="true" duration-ms="3482" started-at="2018-07-18T15:00:52Z" finished-at="2018-07-18T15:00:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestClass -->
+        <test-method status="PASS" signature="tearDownTestMethod(org.testng.ITestResult)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestMethod" is-config="true" duration-ms="1" started-at="2018-07-18T15:00:55Z" finished-at="2018-07-18T15:00:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=applaunch status=SUCCESS method=AndroidDemoTest.applaunch()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870] output=Completed executing following method : AndroidDemoTest.applaunch]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestMethod -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="setUp" is-config="true" duration-ms="21547" started-at="2018-07-18T15:00:55Z" finished-at="2018-07-18T15:01:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="installapp()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="installapp" duration-ms="12315" started-at="2018-07-18T15:01:17Z" finished-at="2018-07-18T15:01:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.installapp]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- installapp -->
+        <test-method status="PASS" signature="tearDownTestClass()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestClass" is-config="true" duration-ms="2911" started-at="2018-07-18T15:01:29Z" finished-at="2018-07-18T15:01:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestClass -->
+        <test-method status="PASS" signature="tearDownTestMethod(org.testng.ITestResult)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestMethod" is-config="true" duration-ms="0" started-at="2018-07-18T15:01:32Z" finished-at="2018-07-18T15:01:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=installapp status=SUCCESS method=AndroidDemoTest.installapp()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870] output=Completed executing following method : AndroidDemoTest.installapp]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestMethod -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="setUp" is-config="true" duration-ms="20827" started-at="2018-07-18T15:01:32Z" finished-at="2018-07-18T15:01:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="WebPasstest()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="WebPasstest" duration-ms="8149" started-at="2018-07-18T15:01:53Z" finished-at="2018-07-18T15:02:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.WebPasstest]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- WebPasstest -->
+        <test-method status="PASS" signature="tearDownTestClass()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestClass" is-config="true" duration-ms="3342" started-at="2018-07-18T15:02:01Z" finished-at="2018-07-18T15:02:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestClass -->
+        <test-method status="PASS" signature="tearDownTestMethod(org.testng.ITestResult)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestMethod" is-config="true" duration-ms="0" started-at="2018-07-18T15:02:04Z" finished-at="2018-07-18T15:02:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=WebPasstest status=SUCCESS method=AndroidDemoTest.WebPasstest()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870] output=Completed executing following method : AndroidDemoTest.WebPasstest]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestMethod -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="setUp" is-config="true" duration-ms="23107" started-at="2018-07-18T15:02:04Z" finished-at="2018-07-18T15:02:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AppPasstest()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="AppPasstest" duration-ms="1972" started-at="2018-07-18T15:02:28Z" depends-on-methods="com.experitest.auto.AndroidDemoTest.applaunch" finished-at="2018-07-18T15:02:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.AppPasstest]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AppPasstest -->
+        <test-method status="PASS" signature="tearDownTestClass()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestClass" is-config="true" duration-ms="2640" started-at="2018-07-18T15:02:30Z" finished-at="2018-07-18T15:02:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestClass -->
+        <test-method status="PASS" signature="tearDownTestMethod(org.testng.ITestResult)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestMethod" is-config="true" duration-ms="0" started-at="2018-07-18T15:02:32Z" finished-at="2018-07-18T15:02:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AppPasstest status=SUCCESS method=AndroidDemoTest.AppPasstest()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870] output=Completed executing following method : AndroidDemoTest.AppPasstest]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestMethod -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="setUp" is-config="true" duration-ms="22547" started-at="2018-07-18T15:02:32Z" finished-at="2018-07-18T15:02:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.setUp]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Appfailtest()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="Appfailtest" duration-ms="4568" started-at="2018-07-18T15:02:55Z" depends-on-methods="com.experitest.auto.AndroidDemoTest.applaunch" finished-at="2018-07-18T15:02:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : AndroidDemoTest.Appfailtest]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.experitest.auto.AndroidDemoTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Appfailtest -->
+        <test-method status="PASS" signature="tearDownTestClass()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestClass" is-config="true" duration-ms="2946" started-at="2018-07-18T15:02:59Z" finished-at="2018-07-18T15:03:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestClass -->
+        <test-method status="PASS" signature="tearDownTestMethod(org.testng.ITestResult)[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870]" name="tearDownTestMethod" is-config="true" duration-ms="0" started-at="2018-07-18T15:03:02Z" finished-at="2018-07-18T15:03:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Appfailtest status=SUCCESS method=AndroidDemoTest.Appfailtest()[pri:0, instance:com.experitest.auto.AndroidDemoTest@1341870] output=Completed executing following method : AndroidDemoTest.Appfailtest]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseTest.tearDownTestMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownTestMethod -->
+      </class> <!-- com.experitest.auto.AndroidDemoTest -->
+    </test> <!-- TestAndroid -->
+  </suite> <!-- Suite -->
+</testng-results>

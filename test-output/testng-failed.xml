@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="deviceQuery" value="@os=&#039;android&#039;"/>
+  <listeners>
+    <listener class-name="com.experitest.auto.Listener"/>
+  </listeners>
+  <test name="TestIOS(failed)">
+    <parameter name="deviceQuery" value="@os=&#039;ios&#039;"/>
+    <classes>
+      <class name="com.experitest.auto.AndroidDemoTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDownTestClass"/>
+          <include name="tearDownTestMethod"/>
+        </methods>
+      </class> <!-- com.experitest.auto.AndroidDemoTest -->
+      <class name="com.experitest.auto.IOSDemoTest">
+        <methods>
+          <include name="WebFailtest"/>
+          <include name="WebPasstest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.experitest.auto.IOSDemoTest -->
+    </classes>
+  </test> <!-- TestIOS(failed) -->
+</suite> <!-- Failed suite [Suite] -->
